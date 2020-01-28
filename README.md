@@ -12,3 +12,6 @@ The following python libraries are needed:
 
 ## Instructions
 Open and run `wrangle_act.ipynb` in Jupyter notebook.
+
+## Note to Other Udacity Students
+Feel free to use my project as reference in accordance with the [Udacity Honor Code](https://udacity.zendesk.com/hc/en-us/articles/210667103-What-is-the-Udacity-Honor-Code-).
